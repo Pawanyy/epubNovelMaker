@@ -1,0 +1,6 @@
+/node_modules
+
+data_all.json
+data.json
+*.epub
+package-lock.json
